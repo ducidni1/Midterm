@@ -104,7 +104,7 @@ namespace Midterm
                 Console.WriteLine("Let's go outside!");
             }
             Console.ReadLine();
-
+            //
 
 
 
